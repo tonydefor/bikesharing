@@ -1,4 +1,4 @@
-# Bikesharing Module
+# Bikesharing Challenge
 
 ## Overview
 
