@@ -1,10 +1,10 @@
 # Bikesharing Challenge
 
-## Overview
+# Overview
 
 In this module, we explored Tableau, a data analysis and visualization tool that is nearly ubiquitous in today's professional world. Tableau is so popular because it allows data visualization to create assets that are visually appealing and easy for a non-technical audience to understand our presentation. Tableu helps us tell a clear story that can be easily shared with others.
 
-## Results
+# Results
 - Checkout Time for Users
 
 ![Checkout Time for Users](https://user-images.githubusercontent.com/47859209/206827153-c628cae4-73a4-4597-bcfc-c9830e41a3d1.png)
@@ -36,7 +36,7 @@ This particular sheet tells has also been designed as a heatmap to showcase the 
 Our final sheet has also been designed as a heatmap. This chart is specifically important as it helps us to identify growth opportunities. The company could enhance its market share by targeting the other genders based on our analyses.
 
 
-## Summary
+# Summary
 
 For a preview of our Dashboards and our Tableau Story, you can find a link to our Dashboard here:
 https://public.tableau.com/app/profile/anthony.defor/viz/BikesharingModuleChallenge/BikesharingStory?publish=yes
